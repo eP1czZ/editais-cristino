@@ -2,7 +2,7 @@
 
 You can download the latest Windows installer directly from GitHub:
 
-* **[Download Editais Cristino for Windows (Latest .exe)](https://github.com/eP1czZ/editais-cristino/releases/latest/download/Editais-Cristino-Setup-1.1.2.exe)**
+* **[Download Editais Cristino for Windows (Latest .exe)](https://github.com/eP1czZ/editais-cristino/releases/latest/download/Editais-Cristino-Setup-1.2.1.exe)**
 * **[View All Releases & Changelogs](https://github.com/eP1czZ/editais-cristino/releases)**
 
 ---
