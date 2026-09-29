@@ -9,7 +9,7 @@ You can download the latest Windows installer directly from GitHub:
 
 ### Installation Steps
 1. Download the `.exe` file from the link above.
-2. Double-click `Editais-Cristino-Setup-1.0.1.exe` to run the installer.
+2. Double-click `Editais-Cristino-Setup-1.3.1.exe` to run the installer.
 3. Follow the on-screen prompts to complete installation.
 
 # Editais Cristino
